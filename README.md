@@ -1,5 +1,5 @@
 # Learn_Your_Courses_Power_BI
-![ ](https://solutions-business-intelligence.fr/wp-content/uploads/2024/08/Mathilde.B-Brouillons-2024-07-09T165055.139.webp)
+![ ](https://www.appvizer.com/media/application/25691/screenshot/48224/127952.png)
 
 
 Apprentisage  Power BI A-Z
