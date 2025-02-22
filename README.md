@@ -3,3 +3,109 @@
 
 
 Apprentisage  Power BI A-Z
+
+# Intro_to_Programming :
+Bienvenue au cours d'introduction à la programmation. 
+
+Ce cours est pour toi, si tu n'as jamais coder de ta vie, aucune ligne de code et tu es intéressé par la science de données et l'apprentissage automatique|machine learning, 
+si tu as une expérience en programmation et que tu es juste nouveau en langage python. Alors le mieux que tu puisses faire c'est de suivre directement le cours sur python(Que tu trouveras dans le répertoire nommé Python).
+
+Dans ce cours, tu apprendras comment utiliser le code pour avoir certaines performances de ton ordinateur sur les tâches qui sont réservées pour. Python est l'un des langages de programmation le plus populaires dans le domaine de la data science et c'est le langage que va très vite apprendre dans ce cours. Une fois que tu as complété, tu seras assez prêt pour passer au cours de Python et suivi de celui de l'introduction à l'apprentissage automatique.
+
+Dans ce cours, tu verras plusieurs exemples de code Python. Inspire toi du cours pour écrire ton propre code en résolvant l'exercice qui demande des connaissances similaires. Je vais laisser un fichier python un jupyter notebook dans le dossiers mes_codes qui  te serviras comme exemple numéro 1 d’évaluation de connaissance.
+
+## Thème : Acquisition de connaissances relatives aux projets de la data science.
+--------
+Bienvenue sur ce dépôt git consacré à l'apprentissage de la programmation.
+
+# Table  des Matières
+--------
+- [x] Arithmetic and Variables.
+- [x] Function.
+- [x] Data Types.
+- [ ] Conditions and Conditional Statements.
+- [ ] Introduction to the Listes.
+
+# Arithmetic and Variables :
+Introduction :
+     Dans cette leçon, tu apprendras comment afficher une chaîne de 
+    carractère avec la fonction print(). Cette fonction te permet d'afficher la somme,soustraction,...etc d'une opération Arithmétique.
+    Aussi, tu peux apprendre à utiliser les commentaires(elles t'aide à comprendre et à faire comprendre aux autres ton code.
+    À créer, manipuler,stocker des variables et Debugger des ligne de code en error.
+# Objectif :
+--------
+Le Cours sur Arithmetic and Variables nous permet de :
+- [x] Faire des calculs
+- [x] Définir les variables
+- [x] Modifier les variables
+
+# Funtions : 
+ Introduction :
+    Dans cette leçon, tu apprendras comment organiser ton 
+    code avec les fonctions. Une fonction est un block de code destiné à la performance d'une tâche spécifique.
+    Comme tu le verras les fonctions t'aiderons à faire à peu près des calculs plusieurs fois sans dipluquer le code d'origine.
+    
+# Objectif :
+--------
+Le Cours sur les notion de function nous permet de : 
+- [x] Intro to functions  : a simple example 
+- [x] How to run (or "call") a function
+- [x] More complexe example
+- [x] Variable "SCOPE"
+- [x] Functions with multiple arguments
+- [x] Functions with no arguments
+
+# Data Types : 
+ Introduction :
+    Dans cette leçon, tu apprendras comment organiser ton 
+    code avec les fonctions. Une fonction est un block de code destiné à la performance d'une tâche spécifique.
+    Comme tu peux le voir, les fonctions t'aiderons à faire à peu près des calculs plusieurs fois sans dipluque aucun code.
+    
+# Objectif :
+--------
+Le Cours sur les notion de function nous permet de : 
+- [x] Intro to functions  : a simple example 
+- [x] How to run (or "call") a function
+- [x] More complexe example
+- [x] Variable "SCOPE"
+- [x] Functions with multiple arguments
+- [x] Functions with no arguments
+
+# Conditions and Conditional Statements : 
+ Introduction :
+    Dans cette leçon, vous apprendrez à utiliser des conditions et 
+    des instructions conditionnelles pour modifier le fonctionnement de vos fonctions.
+    
+# Objectif :
+--------
+Le Cours sur les notion de function nous permet de : 
+- [x] Introduction
+- [x] Conditions
+- [x] Conditional statements ("if" statements,"if ... else" statements, "if ... elif ... else" statements)
+- [x] Example - Calculations
+- [x] Example - Multiple "elif" statements
+
+# Introduction to the Listes : 
+ Introduction :
+    Dans cette leçon, tu apprendras comment organiser ton 
+    code avec les fonctions. Une fonction est un block de code destiné à la performance d'une tâche spécifique.
+    Comme tu peux le voir, les fonctions t'aiderons à faire à peu près des calculs plusieurs fois sans dipluque aucun code.
+    
+# Objectif :
+--------
+Le Cours sur les notion de function nous permet de : 
+- [x] Intro to functions  : a simple example 
+- [x] How to run (or "call") a function
+- [x] More complexe example
+- [x] Variable "SCOPE"
+- [x] Functions with multiple arguments
+- [x] Functions with no arguments
+
+
+-------
+Afin d'exécuter l'ensemble des codes présents dans ce repertoire, vous devez disposer d'un environnement python (>= 3.9) et d'installer les modules nécessaires par la commande suivante :
+```bash
+pip install "nom du module"
+```
+# Contributeur
+- Rodolphe Bounamari **`@rbouna`**.
