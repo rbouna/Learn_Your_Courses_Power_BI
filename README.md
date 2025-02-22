@@ -106,5 +106,6 @@ Afin d'exécuter l'ensemble des codes présents dans ce repertoire, vous devez d
 ```bash
 pip install "nom du module"
 ```
+![](https://www.appvizer.com/media/application/25691/screenshot/48224/127952.png)
 # Contributeur
 - Rodolphe Bounamari **`@rbouna`**.
